@@ -91,6 +91,7 @@ jobs:
           - "phoenix"
           - "prince"
           - "psmn"
+          - "rcx_bio"
           - "rosalind"
           - "rosalind_uge"
           - "sage"
